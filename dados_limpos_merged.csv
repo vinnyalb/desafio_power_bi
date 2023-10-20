@@ -1,0 +1,44 @@
+ID	Data	origem	produto	quantidade
+1	domingo, 14 de Janeiro de 2022	internet	870	1
+2	domingo, 14 de Janeiro de 2022	internet	870	1
+2	terça-feira, 3 de Fevereiro de 2024	internet	870	1
+2	sábado, 19 de Março de 2023	internet	870	1
+5	quinta-feira, 19 de Março de 2023	internet	870	3
+4	quinta-feira, 8 de agosto de 2013	internet	870	3
+4	quinta-feira, 15 de agosto de 2013	internet	870	3
+4	terça-feira, 20 de agosto de 2013	internet	870	5
+2	quinta-feira, 5 de setembro de 2013	local	870	5
+2	sábado, 14 de setembro de 2013	internet	900	1
+3	domingo, 15 de setembro de 2013	internet	900	1
+1	segunda-feira, 16 de setembro de 2013	local	900	1
+2	terça-feira, 17 de setembro de 2013	local	900	1
+
+ID	Pedidos.Data	Status	Prioridade	Pedidos.origem	Pedidos.produto	Pedidos.quantidade
+2	domingo, 14 de Janeiro de 2022	 Enviado	Normal	internet	870	1
+2	domingo, 14 de Janeiro de 2022	Aguardando pagamento	Normal	internet	870	1
+1	terça-feira, 16 de julho de 2013	Cancelado	Normal	internet	870	1
+3	sábado, 17 de Setembro de 2024	Aguardando devolução	Normal	internet	870	1
+4	quinta-feira, 17 de Setembro de 2024	 Enviado	Normal	internet	870	3
+3	quinta-feira, 17 de Setembro de 2024	 Enviado	Normal	internet	870	3
+5	quinta-feira, 15 de agosto de 2013	 Enviado	Alta	internet	870	3
+2	terça-feira, 20 de agosto de 2013	 Enviado	Normal	internet	870	5
+2	quinta-feira, 5 de setembro de 2013	Cancelado	Normal	local	870	5
+2	sábado, 14 de setembro de 2013	Cancelado	Normal	internet	900	1
+1	domingo, 15 de setembro de 2013	Cancelado	Normal	internet	900	1
+4	segunda-feira, 16 de setembro de 2013	 Enviado	Alta	local	900	1
+5	terça-feira, 17 de setembro de 2013	 Enviado	Normal	local	900	1
+
+ID	Status	Prioridade
+1	 Enviado	Normal
+2	Aguardando pagamento	Normal
+2	Cancelado	Normal
+3	Aguardando devolução	Normal
+4	 Enviado	Normal
+5	 Enviado	Normal
+6	 Enviado	Alta
+7	 Enviado	Normal
+8	Cancelado	Normal
+3	Cancelado	Normal
+2	Cancelado	Normal
+1	 Enviado	Alta
+1	 Enviado	Normal
